@@ -1,0 +1,72 @@
+
+body {
+    font-family: 'Baloo Da 2', cursive;
+}
+
+.header-font{
+    font-family: 'DM Sans', sans-serif;
+}
+
+.font-roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.font-inter{
+    font-family: 'Inter', sans-serif;
+}
+
+.header-text-color{
+    color: #005885;
+}
+
+.logoImg{
+    height: 40px;
+}
+
+.header-btn-bg-color{
+    background-color: #007A73;
+}
+
+.header-video{
+    width: 200px;
+    height: 130px;
+}
+
+.header-video-description-one{
+    background-color:  #005885;
+    width: 150px;
+    height: 130px;
+}
+
+.btn-background{
+    background-color: #005885;
+}
+
+.focus-effect:focus{
+   outline: none;
+}
+
+.category-section{
+    background: linear-gradient(to left, #99c9c7 50%, #99bcce 50%);
+}
+
+.bg-vertical-line{
+    background-image: url("../img/verticalLine.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-zakir-nayek{
+    background-color: #007A73;
+    position: relative;
+    height: 400px;
+    width: 300px;
+}
+
+.zakirNayek-img{
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    top: -25px;
+    left: 25px;
+}
