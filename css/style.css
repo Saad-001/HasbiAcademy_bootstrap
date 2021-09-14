@@ -85,6 +85,17 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
+.custom-shadow{
+    box-shadow: 3px 3px 5px rgb(236, 235, 235);
+}
+
+.btn:focus{
+    outline: none;
+    box-shadow: none;
+}
+.btn{
+    background-color: transparent;
+}
 
 .bg-zakir-nayek{
     background-color: #007A73;
@@ -99,4 +110,17 @@ body {
     position: absolute;
     top: -25px;
     left: 25px;
+}
+
+
+@media screen and (min-width:1200px){
+    .extra-margin{
+        margin-top: 73px;
+    }
+}
+
+@media screen and (max-width:1199px){
+    .extra-margin{
+        margin-top: 50px;
+    }
 }
