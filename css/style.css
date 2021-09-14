@@ -89,6 +89,10 @@ body {
     box-shadow: 3px 3px 5px rgb(236, 235, 235);
 }
 
+.custom-border{
+    border: 1px solid #005885;
+}
+
 .btn:focus{
     outline: none;
     box-shadow: none;
